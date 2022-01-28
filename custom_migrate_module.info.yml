@@ -1,0 +1,7 @@
+type: module
+name: Custom Migrate Module
+description: 'Custom Module to do some migrations'
+package: Migration
+core_version_requirement: ^9.1
+dependencies:
+  - drupal:migrate

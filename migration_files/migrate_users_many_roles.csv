@@ -1,0 +1,4 @@
+ID,name,email,firstname,lastname,Status,roles,Password
+1,said,said.rahmi@example.com,said,rahmi,1,"administrator,migrationuser",said@123
+2,rahmi,rahmi.said@example.com,rahmi,said,1,authenticated,rahmi@123
+3,dummy,dummy@example.com,Dummy,User,1,"migrationuser,administrator",dummy@123

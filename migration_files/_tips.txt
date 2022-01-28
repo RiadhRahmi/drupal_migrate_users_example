@@ -1,0 +1,10 @@
+// delete unwanted migrations
+https://www.drupal.org/project/migrate_plus/issues/2560839
+vendor\bin\drush config-delete migrate_plus.migration.name of your migration
+vendor\bin\drush config-delete migrate_plus.migration.demo_user_migration
+
+
+
+
+// migrate users
+https://www.valuebound.com/resources/blog/how-migrate-users-csv-file-drupal-8
