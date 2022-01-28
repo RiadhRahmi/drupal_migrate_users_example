@@ -24,6 +24,7 @@ process:
 destination:
   plugin: 'entity:user'
   md5_passwords: true
+# https://github.com/codimth/codimth_hashedpassword // override PhpassHashedPassword to support md5 function  
 migration_dependencies:
   required: {  }
   optional: {  }
